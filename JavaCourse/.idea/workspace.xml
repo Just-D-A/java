@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b80cda4-cffd-4937-a5f3-618086a0e44d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwMFnZrbe3RJiQF78IVoN7PqWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaStepik/SpreadsheetEngine" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="domain.product" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="domain.storage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="JavaCourse" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b80cda4-cffd-4937-a5f3-618086a0e44d" name="Default Changelist" comment="" />
+      <created>1576263102732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576263102732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="216" width="800" height="728" key="#Intentions" timestamp="1579214053104">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="555" y="216" width="800" height="728" key="#Intentions/0.30.1920.1050@0.30.1920.1050" timestamp="1579214053104" />
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579216155692">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1579216155692" />
+    <state x="768" y="267" width="374" height="578" key="#com.intellij.ide.util.MemberChooser" timestamp="1577406667091">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="768" y="267" width="374" height="578" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1577406667091" />
+    <state x="692" y="341" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579216153935">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="692" y="341" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1579216153935" />
+    <state x="748" y="442" width="423" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577406298209">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="748" y="442" width="423" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1920.1050@0.30.1920.1050" timestamp="1577406298209" />
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl" timestamp="1579311532504">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1579311532504" />
+    <state width="1920" height="284" key="GridCell.Tab.0.bottom" timestamp="1579307939548">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1579307939548" />
+    <state width="1920" height="284" key="GridCell.Tab.0.center" timestamp="1579307939547">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1579307939547" />
+    <state width="1920" height="284" key="GridCell.Tab.0.left" timestamp="1579307939546">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1579307939546" />
+    <state width="1920" height="284" key="GridCell.Tab.0.right" timestamp="1579307939548">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1579307939548" />
+    <state x="443" y="132" width="1024" height="848" key="SettingsEditor" timestamp="1577524003463">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="443" y="132" width="1024" height="848" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1577524003463" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578699918174">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.30.1920.1050@0.30.1920.1050" timestamp="1578699918174" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578699887446">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1578699887446" />
+    <state x="344" y="259" width="1222" height="594" key="new project wizard" timestamp="1579307935714">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="344" y="259" width="1222" height="594" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1579307935714" />
+    <state x="624" y="254" key="run.anything.popup" timestamp="1579216013466">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="624" y="254" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1579216013466" />
+  </component>
+</project>
